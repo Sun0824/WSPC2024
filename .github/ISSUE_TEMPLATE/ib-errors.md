@@ -2,7 +2,7 @@
 name: IB Errors
 about: Errors about Instruction Booklets
 title: "[Errors]"
-labels: ''
+labels: error
 assignees: ''
 
 ---
